@@ -4,15 +4,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dean2103@gmail.com)](mailto:dean2103@gmail.com)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/dean2103)](https://codeforces.com/profile/dean2103)
 
+<!-- -->
+<div style="margin-bottom:50px" display="block" align="center">
+  <img width="50%" align="center" src="Profile_banner.png" />
+</div>
+
 ### 👨🏻‍💻 About me 🎓
 
 ![image](https://user-images.githubusercontent.com/76253386/211127361-39fc52af-1c48-42c2-aad1-4ea0aa4b6849.png)
 ![image](https://user-images.githubusercontent.com/76253386/211127394-8b310f4b-72d2-4de4-9b7e-fd9539b954d2.png)
 
-
-
 I'm a 21 year old Mexican-American latino born in USA, Dallas, Texas. Im currently living in Mexico, San Luis Potosi, San Luis Potosi where im also pursuing a degree in Computer Engineering within the faculty of Engineering from "Universidad Autonoma de San Luis Potosi", which i hope to achieve by June 2024. 
-
 
 ### 💫 Skills/Experience
 
@@ -60,18 +62,6 @@ I'm a 21 year old Mexican-American latino born in USA, Dallas, Texas. Im current
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-
-<!--
-<div style="margin-bottom:50px" display="block" align="center">
-  <img width="50%" align="center" src="Profile_banner.png" />
-</div>
--->
-
-
-
-
-
 
 
 

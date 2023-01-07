@@ -4,7 +4,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dean2103@gmail.com)](mailto:dean2103@gmail.com)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/dean2103)](https://codeforces.com/profile/dean2103)
 
-### - Skills/Experience
+### 👨🏻‍💻 About me 🎓
+
+![image](https://user-images.githubusercontent.com/76253386/211127361-39fc52af-1c48-42c2-aad1-4ea0aa4b6849.png)
+![image](https://user-images.githubusercontent.com/76253386/211127394-8b310f4b-72d2-4de4-9b7e-fd9539b954d2.png)
+
+
+
+I'm a 21 year old Mexican-American latino born in USA, Dallas, Texas. Im currently living in Mexico, San Luis Potosi, San Luis Potosi where im also pursuing a degree in Computer Engineering within the faculty of Engineering from "Universidad Autonoma de San Luis Potosi", which i hope to achieve by June 2024. 
+
+
+### 💫 Skills/Experience
 
 - 💻 IDEs/Editors:
 
@@ -39,7 +49,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- 🥅 Other:
+- 🖥 Other:
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)

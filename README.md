@@ -1,6 +1,6 @@
 ### 👋 I'm Dean, welcome to my profile! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DeanHdz.visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=DeanHdz.visitor-badge) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/DeanHdz/)](https://www.linkedin.com/in/DeanHdz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dean2103@gmail.com)](mailto:dean2103@gmail.com)

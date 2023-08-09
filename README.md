@@ -16,15 +16,15 @@
 ![image](https://user-images.githubusercontent.com/76253386/211127361-39fc52af-1c48-42c2-aad1-4ea0aa4b6849.png)
 ![image](https://user-images.githubusercontent.com/76253386/211127394-8b310f4b-72d2-4de4-9b7e-fd9539b954d2.png)
 
-I'm a 21 year old Mexican-American latino born in USA, Dallas, Texas. Im currently living in Mexico, San Luis Potosi, San Luis Potosi where im also pursuing a degree in Computer Engineering within the faculty of Engineering from "Universidad Autonoma de San Luis Potosi", which i hope to achieve by June 2024. 
+I'm a 22 year old Mexican-American latino born in USA, Dallas, Texas. Im currently living in Mexico, San Luis Potosi, San Luis Potosi where im also pursuing a degree in Computer Engineering within the faculty of Engineering from "Universidad Autonoma de San Luis Potosi", which i hope to achieve by June 2024. 
 
 ### 💫 Skills/Experience
 
 - 💻 IDEs/Editors:
 
-![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 - 📋 Languages:
 
@@ -44,10 +44,14 @@ I'm a 21 year old Mexican-American latino born in USA, Dallas, Texas. Im current
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeanHdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💾 Databases:
+<div>
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</div>
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 - 🎛️ Operating Systems:
 
@@ -59,12 +63,21 @@ I'm a 21 year old Mexican-American latino born in USA, Dallas, Texas. Im current
 - 🖥 Other:
 
 <!-- ?style=flat&amp; -->
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
+</div>
 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=for-the-badge&amp;logo=cisco&amp;logoColor=white")
 ![TCP/IP](https://img.shields.io/badge/-Packet_Tracer-000000?style=for-the-badge&amp;logo=cisco&amp;logoColor=white")
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)

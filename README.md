@@ -1,24 +1,97 @@
 ### 👋 I'm Dean, welcome to my profile! 👋
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=DeanHdz.visitor-badge) -->
+<!-- badge always breaks
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DeanHdz.visitor-badge)
+-->
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/DeanHdz/)](https://www.linkedin.com/in/DeanHdz/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dean2103@gmail.com)](mailto:dean2103@gmail.com)
+<!-- Need to grind codeforces again...
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/dean2103)](https://codeforces.com/profile/dean2103)
-
-<!-- -->
-<div style="margin-bottom:50px" display="block" align="center">
-  <img width="50%" align="center" src="Profile_banner.png" />
-</div>
+-->
 
 ### 👨🏻‍💻 About me 🎓
 
 ![image](https://user-images.githubusercontent.com/76253386/211127361-39fc52af-1c48-42c2-aad1-4ea0aa4b6849.png)
 ![image](https://user-images.githubusercontent.com/76253386/211127394-8b310f4b-72d2-4de4-9b7e-fd9539b954d2.png)
 
-I'm a 22 year old Mexican-American latino born in USA, Dallas, Texas. Im currently living in Mexico, San Luis Potosi, San Luis Potosi where im also pursuing a degree in Computer Engineering within the faculty of Engineering from "Universidad Autonoma de San Luis Potosi", which i hope to achieve by June 2024. 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<p style="text-align: justify;">
+    I'm a 22-year-old Mexican-American Latino born in the USA, Dallas, Texas. I'm currently living in Mexico, San Luis Potosi, San Luis Potosi, where i am also pursuing a degree in Computer Engineering within the faculty of Engineering from "Universidad Autonoma de San Luis Potosi," which I hope to achieve by June 2024.
+</p>
 
-### 💫 Skills/Experience
+Contact me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/DeanHdz/)](https://www.linkedin.com/in/DeanHdz/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dean2103@gmail.com)](mailto:dean2103@gmail.com)
+
+
+### 💫 Areas i've worked on:
+
+- Desktop (C#/Java Application Development):
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+- Web (From static sites to full scale web applications):
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
+</div>
+
+- Mobile (Developing Apps in Flutter, with or without backend):
+
+
+
+- Database systems (Creation and managment):
+
+![SQL](https://img.shields.io/badge/SQL-%25A08B00.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+- Other area related tools:
+
+![AVRAssembly](https://img.shields.io/badge/AVR_Assembly-5C2D91?style=for-the-badge&logo=avr&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco-000000?style=for-the-badge&amp;logo=cisco&amp;logoColor=white")
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeanHdz&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeanHdz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+<!-- OLD VERSION
 
 - 💻 IDEs/Editors:
 
@@ -28,20 +101,34 @@ I'm a 22 year old Mexican-American latino born in USA, Dallas, Texas. Im current
 
 - 📋 Languages:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%25A08B00.svg?style=for-the-badge&logo=sql&logoColor=white)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  
+  <div style="width: 50%;">
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeanHdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  </div>
 
-![AVRAssembly](https://img.shields.io/badge/AVR_Assembly-5C2D91?style=for-the-badge&logo=avr&logoColor=white)
+  <div style="width: 50%;">
+    
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-%25A08B00.svg?style=for-the-badge&logo=sql&logoColor=white)
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeanHdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![AVRAssembly](https://img.shields.io/badge/AVR_Assembly-5C2D91?style=for-the-badge&logo=avr&logoColor=white)
+
+  </div>
+</div>
+
+
+
 
 - 💾 Databases:
 <div>
@@ -59,10 +146,10 @@ I'm a 22 year old Mexican-American latino born in USA, Dallas, Texas. Im current
 ![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 - 🖥 Other:
 
-<!-- ?style=flat&amp; -->
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -75,8 +162,7 @@ I'm a 22 year old Mexican-American latino born in USA, Dallas, Texas. Im current
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=for-the-badge&amp;logo=cisco&amp;logoColor=white")
-![TCP/IP](https://img.shields.io/badge/-Packet_Tracer-000000?style=for-the-badge&amp;logo=cisco&amp;logoColor=white")
+![Cisco](https://img.shields.io/badge/-Cisco-000000?style=for-the-badge&amp;logo=cisco&amp;logoColor=white")
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -85,20 +171,4 @@ I'm a 22 year old Mexican-American latino born in USA, Dallas, Texas. Im current
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-
-
-
-<!--
-**DeanHdz/DeanHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

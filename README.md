@@ -1,4 +1,5 @@
-### 👋 I'm Dean, welcome to my profile! 👋
+<!-- ### 👋 I'm Dean, welcome to my profile! 👋 -->
+<img width="1080px" src="personal_banner.png">
 
 <!-- badge always breaks
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DeanHdz.visitor-badge)

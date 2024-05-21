@@ -124,3 +124,6 @@ Contact me:
 <a href="https://github.com/DeanHdz/SESAT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=SESAT&theme=vision-friendly-dark" />
 </a>
+<a href="https://github.com/DeanHdz/SGTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=SGTS&theme=vision-friendly-dark" />
+</a>

@@ -119,11 +119,14 @@ Contact me:
 <img src="http://github-readme-streak-stats.herokuapp.com?user=DeanHdz&theme=dark&background=000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeanHdz&layout=compact&theme=vision-friendly-dark"/>
 
-#### Top Repositories
+#### Top Web Repositories (Main Focus/Interest)
 
-<a href="https://github.com/DeanHdz/SESAT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=SESAT&theme=vision-friendly-dark" />
-</a>
 <a href="https://github.com/DeanHdz/SGTS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=SGTS&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/DeanHdz/intellihomes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=intellihomes&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/DeanHdz/SESAT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=SESAT&theme=vision-friendly-dark" />
 </a>

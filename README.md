@@ -25,12 +25,12 @@ Contact me:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dean2103@gmail.com)](mailto:dean2103@gmail.com)
 
 
-### 💼 Carrer Certificates
+### 💼 My Carrer Certificates
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://picsum.photos/50" />
+      <img src="meta.png" width="50" />
     </td>
     <td align="center">
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/88X3BOS3K7BP">Meta Front-End Developer Professional Certificate</a>

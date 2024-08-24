@@ -25,6 +25,21 @@ Contact me:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:dean2103@gmail.com)](mailto:dean2103@gmail.com)
 
 
+### 💼 Carrer Certificates
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://picsum.photos/50" />
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/88X3BOS3K7BP">Meta Front-End Developer Professional Certificate</a>
+    </td>
+  </tr>
+</table>
+
+
+
 ### <img width="30" height="30" src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> Areas i've worked on:
 
 - Desktop (C#/Java Application Development):

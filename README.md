@@ -142,6 +142,12 @@ Contact me:
 <a href="https://github.com/DeanHdz/intellihomes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=intellihomes&theme=vision-friendly-dark" />
 </a>
+<a href="https://github.com/DeanHdz/DigitalNest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=DigitalNest&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/DeanHdz/little-lemon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=little-lemon&theme=vision-friendly-dark" />
+</a>
 <a href="https://github.com/DeanHdz/SESAT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=SESAT&theme=vision-friendly-dark" />
 </a>

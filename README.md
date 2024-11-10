@@ -151,3 +151,12 @@ Contact me:
 <a href="https://github.com/DeanHdz/SESAT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=SESAT&theme=vision-friendly-dark" />
 </a>
+
+#### Top Mobile Repositories (Using Flutter)
+
+<a href="https://github.com/DeanHdz/Notepad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=Notepad&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/DeanHdz/Ecommerce_DesarrolloMovil_Flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeanHdz&repo=Ecommerce_DesarrolloMovil_Flutter&theme=vision-friendly-dark" />
+</a>

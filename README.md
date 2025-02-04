@@ -28,6 +28,14 @@ Contact me:
 ### 💼 My Carrer Certificates
 
 <table>
+    <tr>
+        <td align="center">
+          <img src="ceneval.png" width="50" />
+        </td>
+        <td align="center">
+            <a href="https://reconocimiento.ceneval.edu.mx/busqueda-de-reconocimientos-2/?resultId=44461">Premio Ceneval al Desempeño de Excelencia EGEL</a>
+        </td>
+    </tr>
   <tr>
     <td align="center">
       <img src="meta.png" width="50" />
@@ -36,6 +44,7 @@ Contact me:
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/88X3BOS3K7BP">Meta Front-End Developer Professional Certificate</a>
     </td>
   </tr>
+
 </table>
 
 

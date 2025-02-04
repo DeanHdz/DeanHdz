@@ -30,7 +30,7 @@ Contact me:
 <table>
     <tr>
         <td align="center">
-          <img src="ceneval.png" width="50" />
+          <img src="ceneval.jpg" width="50" />
         </td>
         <td align="center">
             <a href="https://reconocimiento.ceneval.edu.mx/busqueda-de-reconocimientos-2/?resultId=44461">Premio Ceneval al Desempeño de Excelencia EGEL</a>

@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p style="text-align: justify;">
-    I'm a 23-year-old Mexican-American born in Dallas, Texas, USA. I am currently living in San Luis Potosí, S.L.P., Mexico. I recently graduated with a degree in Computer Engineering from the Faculty of Engineering at "Universidad Autónoma de San Luis Potosí" and am awaiting my professional license, expected by January 2025. My main interests include software engineering, desktop applications, web development and Mobile development using Flutter.
+    I'm a 23-year-old Mexican-American born in Dallas, Texas, USA. I am currently living in San Luis Potosí, S.L.P., Mexico. I recently graduated with a degree in Computer Engineering from the Faculty of Engineering at "Universidad Autónoma de San Luis Potosí" and am awaiting my professional license. My main interests include software engineering, desktop applications, web development and Mobile development using Flutter.
 </p>
 
 Contact me:

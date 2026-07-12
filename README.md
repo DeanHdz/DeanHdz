@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p style="text-align: justify;">
-    I'm a 23-year-old Mexican-American born in Dallas, Texas, USA. I am currently living in San Luis Potosí, S.L.P., Mexico. I recently graduated with a degree in Computer Engineering from the Faculty of Engineering at "Universidad Autónoma de San Luis Potosí" and am awaiting my professional license. My main interests include software engineering, desktop applications, web development and Mobile development using Flutter.
+    I'm a 25-year-old Mexican-American born in Dallas, Texas, USA. I am currently living in San Luis Potosí, S.L.P., Mexico. I recently graduated with a degree in Computer Engineering from the Faculty of Engineering at "Universidad Autónoma de San Luis Potosí" and am awaiting my professional license. My main interests include software engineering, web development and cloud services.
 </p>
 
 Contact me:
@@ -34,6 +34,14 @@ Contact me:
         </td>
         <td align="center">
             <a href="https://reconocimiento.ceneval.edu.mx/busqueda-de-reconocimientos-2/?resultId=44461">Premio Ceneval al Desempeño de Excelencia EGEL</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+          <img src="aws.png" width="50" />
+        </td>
+        <td align="center">
+          <a href="https://www.coursera.org/account/accomplishments/professional-cert/88X3BOS3K7BP">AWS Cloud Solutions Architect Professional Certificate</a>
         </td>
     </tr>
   <tr>
